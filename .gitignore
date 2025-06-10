@@ -1,3 +1,39 @@
+# Byte-compiled / optimized / dependency files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# SQLite databases
+*.sqlite3
 db.sqlite3
+
+# Go build artifacts
+bin/
+build/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# Configuration files
+.env
+env/
+*.env
+.env.*
+
+# IDE directories
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+
+# Test and coverage outputs
+coverage.out
