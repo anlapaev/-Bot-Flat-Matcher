@@ -1,4 +1,0 @@
-aiohttp
-aiogram>=2.25
-SQLAlchemy>=1.4
-asyncpg
